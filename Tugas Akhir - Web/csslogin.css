@@ -1,0 +1,60 @@
+body{
+	font-family: Roboto;
+	background: ;
+}
+ 
+h1{
+	text-align: center;
+	font-weight: 300;
+}
+ 
+.tulisan_login{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+ 
+.kotak_login{
+	z-index: 1;
+	width: 350px;
+	background: white;
+	margin: 100px auto;
+	padding: 20px 20px;
+	border-radius: 20px;
+
+}
+
+.logo-wrn{
+height: 50px;
+}
+
+
+.background-tgh{
+	z-index: -1;
+
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	border-radius: 20px;
+}
+ 
+.tombol_login{
+	background: orange;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 10px;
+}
+
+ 
